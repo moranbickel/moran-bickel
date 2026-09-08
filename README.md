@@ -1,7 +1,7 @@
 # Moran Bickel
 
-Israeli civil litigator. I build ORCA, a closed-source AI reasoning system for
-Israeli civil litigation. The repositories here are not ORCA. They are the
+Israeli civil litigator. I build [ORCA](https://orca-legal.com), a closed-source AI
+reasoning system for Israeli civil litigation (ORCA Legal Labs, Israel). The repositories here are not ORCA. They are the
 domain-neutral disciplines ORCA is built under, published on their own.
 
 One idea runs through all of them: AI-assisted work at a court-filing standard
